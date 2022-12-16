@@ -1,0 +1,110 @@
+                                                                /* Css Inicio */
+
+body{
+    background-color:#A0C1B9
+}
+h1{
+    font-size: 50px;
+}
+
+
+.navegar div{
+    margin-left: 10px;
+    width: 250px;
+    height: 20px;
+    justify-content: center;
+    background-color: lightgreen;
+    background-image: url(./images/copadelmundo.jpg);
+    display: inline-flex;    
+}
+
+#main-inicio {
+    background-image: url(./images/imagen-copa.jpg);
+}
+
+                                                                /* Css Historia */
+
+#header-historia{
+    font-style: italic;
+}
+ 
+#main-historia{
+    background-image: url(./images/campeones-del-mundo-historicos.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.mundiales{
+        display: inline-flex;
+        color:black;
+}
+
+.lista{
+    padding-left: 700px;
+    line-height: 40px;
+}
+
+                                                            /* Css Estadios */
+#body-estadios{
+    background-image:url(./images/back-estadios.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+                                                            /* Css Grupos */
+
+#body-grupos{
+    background-image: url(./images/futbol-2.jpg);
+}
+
+.div-grupos{
+    width: 120px;
+    height: 120px;
+    display: inline-block;
+    border: solid 2px black;
+    background-image:url(./images/red.jpg);
+    margin: 50px;
+    
+    
+}
+
+                                                            /* Css Contacto */
+ 
+#body-contacto{
+    background-image:url(./images/contact-2.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p-redes{
+    margin-top: 100px;
+    font-size: 40px;
+}
+
+
+.img-face{
+    width: 60px;
+    height: 60px;
+}
+
+.img-insta{
+    width: 60px;
+    height: 60px;
+
+}
+
+.img-twitter{
+    width: 60px;
+    height: 60px;
+}
+
+.img-tiktok{
+    width: 60px;
+    height: 60px;
+}
+
+.footer-contacto{
+    margin-top: 140px;
+    color: white;
+}
